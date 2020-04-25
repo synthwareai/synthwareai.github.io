@@ -514,6 +514,15 @@ Primary use:
   color: #fff;
 }
 
+.respon1 {
+    flex: 1 1 auto;
+    min-width: 1px;
+    max-width: 1500px;
+    margin: 0 auto;
+    z-index: 1;
+    width: 100%;
+}
+
 /*//////////////////////////////////////////////////////////////////
 [ Pseudo ]*/
 
